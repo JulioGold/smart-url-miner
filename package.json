@@ -1,0 +1,29 @@
+{
+    "name": "smart-url-miner",
+    "version": "0.0.1",
+    "description": "Mine the urls from a content like a html page for example.",
+    "main": "smartUrlMiner.js",
+    "directories": {
+        "example": "example"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JulioGold/smart-url-miner.git"
+    },
+    "keywords": [
+        "url",
+        "colect",
+        "url",
+        "mine",
+        "url"
+    ],
+    "author": "Julio Goldschmidt",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/JulioGold/smart-url-miner/issues"
+    },
+    "homepage": "https://github.com/JulioGold/smart-url-miner"
+}
